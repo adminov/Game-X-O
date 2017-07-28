@@ -1,1 +1,0 @@
-<p>New project</p>
